@@ -1,3 +1,5 @@
+<img src="public/Repository-Banner.jpg" alt="Repository Banner Image"></img>
+
 <div align="center">
 
 # ⚡ Stack.Java — 0 to 100
