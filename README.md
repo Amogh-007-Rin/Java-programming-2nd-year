@@ -1,4 +1,4 @@
-<img src="public/Repository-Banner.jpg" alt="Repository Banner Image"></img>
+<img src="public/Repository-Banner.png" alt="Repository Banner Image"></img>
 
 <div align="center">
 
